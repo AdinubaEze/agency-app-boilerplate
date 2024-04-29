@@ -1,0 +1,21 @@
+:root{
+   --color-primary:#6b00d7;  
+   --color-primary-accent:#bc7cfc;
+   --color-secondary:#280649;  
+   --color-white:#ffffff; 
+   --color-muted: #c0bbbb;
+   --text-color:#FFFFFF;
+   --bg-color-1:#0c0c0c;
+   --bg-color-2:rgb(39,42,24);
+   --bg-color-3:rgba(33,33,33);
+   --radius-1:4px;
+   --radius-2:0.8rem;
+   --radius-3:1.2rem;
+   --radius-4:2rem;
+   --radius-5:100%;
+   --gray-border:1px solid rgba(89, 88, 88, 0.633);
+   --transition:all 400ms ease;
+   --gradient-1:linear-gradient( 260deg, var(--color-secondary) 0%, var(--color-primary) 100% );
+   --gradient-2:linear-gradient( 260deg, var(--color-primary-accent) 0%, var(--color-primary) 100% );
+}
+
